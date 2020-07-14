@@ -1,0 +1,36 @@
+.app-container{
+    display: flex;
+    justify-content: center;
+   
+}
+.container {
+   margin-left: 40px;
+   width: 60%;
+   justify-content: center;
+   align-items:left;
+   display: flex;
+   flex-direction: column;
+}
+.span-item{
+  margin-right: 15px;
+   
+}
+.answer-item{
+    width: 100%;
+   border: 1px solid red;
+   
+}
+.list-items{
+   
+    height: 30px;
+    background-color: aquamarine;
+    margin: 5px;
+    padding: 5px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+.list-span{
+    display: flex;
+    justify-content: flex-end;
+}
